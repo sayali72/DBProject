@@ -1,4 +1,4 @@
-# DBProject for e-commerce website
+# DBProject for an e-commerce website
 
 A new dot name company has decided to launch their new e-commerce website. The company has hired you as a database specialist to design and develop a database system to support the online shopping business. After several interviews with stakeholder you come up with following tables.
 
