@@ -23,4 +23,4 @@ OrderItem(Order id, Product id, PaidPrice, Quantity)
 PaidPrice is calculated from Sales price and Discount of the product when the order is
 placed.
 
-![](ERD.JPG)
+![](ERD1.JPG)
